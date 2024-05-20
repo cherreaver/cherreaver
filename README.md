@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/MBko0S6)
+![](https://i.imgur.com/MBko0S6.gif)
 
 <!--
 **cherelllnya/cherelllnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
