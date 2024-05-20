@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://imgur.com/MBko0S6" width="100"/>
-</div>
+[Imgur](https://imgur.com/MBko0S6)
 
 <!--
 **cherelllnya/cherelllnya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
